@@ -1,1 +1,17 @@
 @import "tailwindcss";
+/* 1. Ini untuk jalur/background tempat scrollbar berjalan */
+::-webkit-scrollbar-track {
+  background-color: #111827; /* Ini warna bg-gray-900. Ganti kode HEX ini sesuai keinginanmu */
+}
+
+/* 2. Ini untuk batang/scroll yang kamu geser-geser */
+::-webkit-scrollbar-thumb {
+  background-color: #3b82f6; /* Warna biru tombol kamu */
+  border-radius: 10px;       /* Biar ujungnya bulat */
+  border: 3px solid #111827; /* Trik: Beri border yang warnanya sama dengan background track */
+}
+
+/* 3. Lebar keseluruhan scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
