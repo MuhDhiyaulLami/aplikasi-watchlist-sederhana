@@ -26,7 +26,7 @@ Data Source: TMDB API
 
 💡 Cara Menjalankan Proyek
 Clone repository ini:
-git clone https://github.com/usernamekamu/movie-app.git
+git clone https://github.com/MuhDhiyaulLami/aplikasi-watchlist-sederhana.git
 
 Install dependencies:
 npm install
