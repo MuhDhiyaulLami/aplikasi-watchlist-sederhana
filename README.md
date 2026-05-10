@@ -1,4 +1,5 @@
 🎬 watchlist.cinema
+
 watchlist.cinema adalah aplikasi katalog film modern yang dibangun menggunakan React.js dan Tailwind CSS. Aplikasi ini memungkinkan pengguna untuk menjelajahi film populer, mencari judul film secara real-time, hingga mengelola daftar tontonan pribadi (watchlist) dengan data yang diambil langsung dari TMDB (The Movie Database) API.
 🚀 Fitur Utama
 -Dynamic Fetching: Mengambil data film terbaru secara langsung dari TMDB API.
